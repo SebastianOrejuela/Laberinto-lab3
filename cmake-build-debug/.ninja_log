@@ -1,0 +1,6 @@
+# ninja log v6
+6	1082	7687252108056611	CMakeFiles/Laberinto.dir/main.cpp.obj	4baa4a575486a968
+637	767	7687293290438880	Laberinto.exe	63134eaf8cd02c4e
+23	920	7687298374237665	build.ninja	db086110953c6b99
+38	1117	7687252330970944	CMakeFiles/Laberinto.dir/Soldado.cpp.obj	9aa20ede1c6e0bf
+19	636	7687293284258864	CMakeFiles/Laberinto.dir/Laberinto.cpp.obj	2db408ed32173f92
